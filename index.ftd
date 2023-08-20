@@ -112,7 +112,7 @@ link: https://linkedin.com/siru01
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/Sirjan80
+link: https://twitter.com
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
